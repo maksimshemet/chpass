@@ -1,2 +1,0 @@
-# chpass
-chpass_for-

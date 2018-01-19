@@ -1,0 +1,4 @@
+Для работы нужен модуль Paramiko
+
+pip3 install paramiko
+
